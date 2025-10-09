@@ -1,8 +1,8 @@
 # Bridging Spatial Language Models and Urban Foundation Models to Capture Diverse Urban Contexts
 
-This repository contains scripts for integrating RegionDCL with SpaBERT, as described in our paper: Bridging Spatial Language Models and Urban Foundation Models to Capture Diverse Urban Contexts.
+This repository contains scripts for integrating a spatial language model, SpaBERT, with an urban foundation model, RegionDCL, to improve urban characterization in cities with heterogeneous environments.
 
-We gratefully acknowledge the authors of **RegionDCL** and **SpaBERT** for making their code publicly available.  
+We gratefully acknowledge the authors of **SpaBERT** and **RegionDCL** for making their code publicly available.  
 
 
 ## Usage
